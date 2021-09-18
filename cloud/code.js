@@ -3,6 +3,6 @@ Parse.Cloud.define('hello', function(req, res) {
 });
 
 Parse.Cloud.define('hi', function(req, res) {
-  res.success('prueba de mi propio codigo');
+  res.success('Codigo de la funcion');
 });
 
